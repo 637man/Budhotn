@@ -1,6 +1,8 @@
-# Budhót'n
+# Gudhotn - dialekt Budhót'nu
 
-Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fonémů. 7. verze.
+Dialekt umělého jazyka na bázi slovanských jazyků s redukovaným repertoárem grafémů a fonémů. 0. verze.
+
+Jména souborů mají v sobě stále "budhotn" pro zpětnou kompatibilitu a možnost zpětného mergeování.
 
 + **Budhót'n.xslx** - původní Excel 2007+ tabulka s abecedou, gramatikou, slovníkem atd.
     - Obsahuje listy: abeceda, slovíčka, fráze, pod.jm., koncovky, příd.jm., slovesa, předpony, zájmena, číslovky, členy, zkratky, velká písmena
@@ -17,22 +19,14 @@ Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fon
 
 ## Kontakty
 
-Budhót'n vytváří [classroomtoilet#2074](https://classroomtoilet.cz/), repozitář udržuje [637man#2338](https://getmania.blogspot.com/).
+Budhót'n vytváří [classroomtoilet](https://classroomtoilet.cz/), repozitář udržuje a Gudhotn vytváří [637man](https://getmania.blogspot.com/).
 
 [Skupina na Facebooku (aktualizace Budhót'n.xlsx)](https://www.facebook.com/groups/261329611863060)
-
-[Stránka blogu classroomtoilet.cz na Facebooku](https://www.facebook.com/classroomtolet) \[sic\]
-
-[Tento GitHub repozitář](https://github.com/classroomtoilet/Budhotn/)
-
-Skupina na Discordu (spojená s autorovým blogem): classroomtoilet.cz
-
-E-mail: classroomtoilet (å) classroomtoilet ˙ cz
 
 
 ## Kterak psáti znaky nabodlé
 
-Budhót'n byl vymyšlen pro českou klávesnici. Ta má ve Window$ na AltGr (pravý Alt) a číselné řadě různé mrtvé klávesy, o nichž řada uživatelů pravděpodobně neví. V Linuxu je nutné použít Shift+AltGr, neboť AltGr na číselné řadě přeřazuje na symboly z americké klávesnice. Macintosh ani Amigu nikdo z autorů nemá, takže nemůže ověřit.
+Budhót'n byl vymyšlen pro českou klávesnici a Gudhotn se toho drží. Ta má ve Window$ na AltGr (pravý Alt) a číselné řadě různé mrtvé klávesy, o nichž řada uživatelů pravděpodobně neví. V Linuxu je nutné použít Shift+AltGr, neboť AltGr na číselné řadě přeřazuje na symboly z americké klávesnice. Macintosh ani Amigu nikdo z autorů nemá, takže nemůže ověřit.
 
   AltGr: | ~ | ~ | ˇ | ^ | ˘ | ° | ˛ | \` | ˙ | ' | ˝ | " | ¸
 :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
@@ -40,14 +34,14 @@ Příklad: | ~ | ã | ǎ | â | ă | å | ą | à | ȧ | á | ő | ä | ç
   Shift: | ° | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | % | ˇ
   Běžně: | ; | + | ě | š | č | ř | ž | ý | á | í | é | = | ´
 
-Na Window$ jsou omezenější možnosti nabodávání než na Linuxu. Rovněž nefunguje prstolamné Ctrl+Shift+U. [DOSový zlozvyk levého Altu](https://en.wikipedia.org/wiki/Alt_code) umožňuje pouze DOS Latin a s úvodní 0 Window$ Latin (>255 funguje v závislosti na aplikaci), pokud není "HKEY_CURRENT_USER\Control Panel\Input Method\EnableHexNumpad" == "1", to pak umožňuje použití úvodního + a je hexadecimální. Nicméně naštěstí všechny nabodlé znaky Budhót'nu na Windows bez mapy znaků napsat jdou, neboť autor, jsouc omezen tímto obstarožním systémem, nepoznal mocnou sílu [častěji aktualizovaných](https://cgit.freedesktop.org/xorg/lib/libX11/log/nls/en_US.UTF-8/Compose.pre) [skladných sekvencí X11](https://cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre).
+Na Window$ jsou omezenější možnosti nabodávání než na Linuxu. Rovněž nefunguje prstolamné Ctrl+Shift+U. [DOSový zlozvyk levého Altu](https://en.wikipedia.org/wiki/Alt_code) umožňuje pouze DOS Latin a s úvodní 0 Window$ Latin (>255 funguje v závislosti na aplikaci), pokud není "HKEY_CURRENT_USER\Control Panel\Input Method\EnableHexNumpad" == "1", to pak umožňuje použití úvodního + a je hexadecimální. Gudhotn je vytvářen na Linuxu, kde jsou [častěji aktualizované](https://cgit.freedesktop.org/xorg/lib/libX11/log/nls/en_US.UTF-8/Compose.pre) [skladné sekvence X11](https://cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre).
 
           Základ                        Shift                     Linux AltGr              Linux Shift+AltGr
     q w e r t z u i o p ú )     Q W E R T Z U I O P / (     \ | € ¶ ŧ ← ↓ → ø þ [ ]     Ω Ł E ® Ŧ ¥ ↑ ı Ø Þ ÷ ×
     a s d f g h j k l ů § "     A S D F G H J K L " ! '     ~ đ Đ [ ] ` ' ł Ł $ ' \     Æ § Ð ª Ŋ Ħ ̛  & Ł ˝ ß |
      y x c v b n m , . -         Y X C V B N M ? : _         ° # & @ { } ^ < > *         < > © ‘ ’ N º × ÷ ˙
 
-Mrtvá tečka nahoře se chová zvláštně v případě I: ı a İ, tak je tomu i v Budhót'nu, narozdíl od turečtiny. Dále jsou na české klávesnici méně obskurní mrtvá tlačítka na kroužek (Shift+;), čárku (vedle Backspace), háček (Shift+´) a přehlásku. Přehláska je na té klávese, která je pokaždé někde jinde poblíž Entru/Return/<-', a pod Shiftem se na ní ukrývá apostrof. Na linuxové americké mezinárodní klávesnici s AltGr mrtvými tlačítky nelze napsat đ, Ł a ł, jen ð a £. Kompletní seznam všech nabodlých písmenek:
+Mrtvá tečka nahoře se chová zvláštně v případě I: ı a İ, té se však v Gudhotnu nepoužívá. Dále jsou na české klávesnici méně obskurní mrtvá tlačítka na kroužek (Shift+;), čárku (vedle Backspace), háček (Shift+´) a přehlásku. Přehláska je na té klávese, která je pokaždé někde jinde poblíž Entru/Return/<-', a pod Shiftem se na ní ukrývá apostrof. Na linuxové americké mezinárodní klávesnici s AltGr mrtvými tlačítky nelze napsat đ, Ł a ł, jen ð a £. Kompletní seznam všech nabodlých písmenek, zatím původního Budhot'nu:
 
 Písmeno | Klávesy | Unicode
 --- | --- | ---
