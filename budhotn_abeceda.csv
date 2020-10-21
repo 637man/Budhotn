@@ -53,7 +53,7 @@ O o,O o,o,O o,
 Ó ó,Ó ó,oː,Ó ó,OO oo
 Ò ò,O o,ø,O o,
 Ô ô,O o,ɔ,O o,
-Ő ő,Ö ö,əː,ÖÖ öö,OEE oee
+Ő ő,Ö ö,əː,Ő ő,OEE oee
 P p,P p,p,P p,
 Q q,Q q,q,Q q,
 R r,R r,r,R r,
@@ -69,7 +69,7 @@ Sz sz,Š š,ɕ,Š š,SZ sz
 Š š,Š š,ʃ,Š š,SZ sz
 T t,T t,t,T t,
 Ť ť,Ť ť,ʈ,Ť ť,TJ tj
-Ţ ţ,Ť ť,ʈː,Ť,TJ tj
+Ţ ţ,Ť ť,ʈː,Ť ť,TJ tj
 TH th,TH th,θ,Ŧ ŧ,TH th
 U u,U u,u,U u,
 Ü ü,Ü ü,ɯ,Ü ü,UE ue
@@ -78,7 +78,7 @@ U u,U u,u,U u,
 Û û,Û û,ʊ,U u,
 Ů ů,U u,ʉ,U u,
 Ų ų,Û û,ʊː,U u,
-Ű ű,Ü ü,ɯː,ÜÜ üü,UEE uee
+Ű ű,Ü ü,ɯː,Ű ű,UEE uee
 V v,V v,v,V v,
 W w,V v,vː,V v,
 X x,X x,ks,KS ks,
@@ -100,5 +100,20 @@ ZH zh,Ž ž,ʐ,Ž ž,ZS zs
 ,,,Ą̂ ą̂,WAN wan
 ,,,Ą̂́ ą̂́,WAAN waan
 ,,,Ǒ̈ ǒ̈,JOE joe
+,,,Ǒ̋ ǒ̋,JOEE joee
+,,,Ô̈ ô̈,WOE woe
+,,,Ô̋ ô̋,WOEE woee
 ,,,Ǫ̈ ǫ̈,OEN oen
+,,,Ǫ̋ ǫ̋,OEEN oeen
 ,,,Ǫ̌̈ ǫ̌̈,JOEN joen
+,,,Ǫ̌̋ ǫ̌̋,JOEEN joeen
+,,,Ǫ̂̈ ǫ̂̈,WOEN woen
+,,,Ǫ̂̋ ǫ̂̋,WOEEN woeen
+,,,B̑ b̑,BA ba
+,,,B̈ b̈,BE be
+,,,B̄ b̄,BI bi
+,,,B̊ b̊,BO bo
+,,,B̊̈ b̊̈,BOE boe
+,,,B̆ b̆,BU bu
+,,,B̆̈ b̆̈,BUE bue
+,,,B͐ b͐,BY by
