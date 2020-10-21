@@ -1,117 +1,104 @@
-Těžká,Lehká,IPA
-',',
-A a,A a,a
-Á á,Á á,aː
-À à,À à,ɐ
-Â â,A a,ʌ
-Ă ă,A a,a̠
-Å å,A a,ɒ
-Ą ą,Ą ą,ɑ
-B b,B b,b
-C c,C c,ts
-Ć ć,C c,tsː
-Ç ç,Č č,tʂ
-CZ cz,Č č,tɕ
-Č č,Č č,tʃ
-D d,D d,d
-Ď ď,Ď ď,ɖ
-Đ đ,Đ đ,dʑ
-DTH dth,D d,ð
-DZ dz,DZ dz,dz
-Dž dž,Đ đ,dʒ
-E e,E e,ɛ
-Ë ë,Ë ë,æ
-É é,É é,ɛː
-È è,E e,ɛ̠
-Ê ê,E e,ɜ
-F f,F f,f
-G g,G g,g
-Ğ ğ,G g,g̠
-H h,H h,h
-CH ch,CH ch,x
-İ ı,I i,ɪː
-I i,I i,i
-Ï ï,I i,ɪ
-Í í,Í í,iː
-Ì ì,I i,i̠
-Î î,Ü ü,ɥ
-J j,J j,j
-K k,K k,k
-KH kh,KH kh,ʁ
-L l,L l,l
-Ĺ ĺ,Ĺ ĺ,lː
-Ľ ľ,Ľ ľ,ʎ
-Ł ł,Ł ł,w
-LH lh,L l,ɬ
-M m,M m,m
-N n,N n,n
-Ń ń,Ń ń,ŋ
-Ņ ņ,Ň ň,ɳ
-Ň ň,Ň ň,ɲ
-O o,O o,o
-Ö ö,Ö ö,ə
-Ó ó,Ó ó,oː
-Ò ò,O o,ø
-Ô ô,O o,ɔ
-Ő ő,Ö ö,əː
-P p,P p,p
-Q q,Q q,q
-R r,R r,r
-Ŕ ŕ,Ŕ ŕ,rː
-RH rh,R r,ɾ
-RZ rz,Ř ř,ɽ
-Ŗ ŗ,Ř ř,ɽːː
-Ř ř,Ř ř,ɽː
-S s,S s,s
-Ś ś,S s,sː
-Sz sz,Š š,ɕ
-Ş ş,Š š,ʂ
-Š š,Š š,ʃ
-T t,T t,t
-Ť ť,Ť ť,ʈ
-Ţ ţ,Ť ť,ʈː
-TH th,TH th,θ
-U u,U u,u
-Ü ü,Ü ü,ɯ
-Ú ú,Ú ú,uː
-Ù ù,U u,u̠
-Û û,Û û,ʊ
-Ů ů,U u,ʉ
-Ų ų,Û û,ʊː
-Ű ű,Ü ü,ɯː
-V v,V v,v
-W w,V v,vː
-X x,X x,ks
-Y y,Y y,y
-Ÿ ÿ,Ü ü,ʏ
-Ý ý,Ý ý,yː
-Z z,Z z,z
-Ż ż,Ż ż,ʑ
-Ź ź,Ź ź,zː
-Ž ž,Ż ż,ʒ
-ZH zh,Ž ž,ʐ
-,,
-++++,ligatury,++++
-cch,cch,tsx
-czh,čh,tɕh
-czch,čch,tɕx
-čh,čh,tʃh
-čch,čch,tʃx
-đh,đh,dʑh
-džh,đh,dʒh
-kch,kch,kx
-nh,nh,nh
-pch,pch,px
-pkh,pkh,pʁ
-szcz,šč,ɕtɕ
-szč,šč,ɕtʃ
-szch,šch,ɕx
-szkh,škh,ɕʁ
-šcz,šč,ʃtɕ
-šč,šč,ʃtʃ
-šch,šch,ʃx
-škh,škh,ʃʁ
-tch,tch,tx
-tlh,tl,tɬ
-tt,tt,tː
-xh,xh,ksh
+Budhotn,Lehká,IPA,Gudhotn,Spřežky
+',',,,
+A a,A a,a,A a,
+Á á,Á á,aː,Á á,AA aa
+À à,À à,ɐ,A a,
+Â â,A a,ʌ,A a,
+Ă ă,A a,a̠,A a,
+Å å,A a,ɒ,A a,
+Ą ą,Ą ą,ɑ,A a,
+B b,B b,b,B b,
+C c,C c,ts,C c,
+Ć ć,C c,tsː,C c,
+Ç ç,Č č,tʂ,Č č,CZ cz
+CZ cz,Č č,tɕ,Č č,CZ cz
+Č č,Č č,tʃ,Č č,CZ cz
+D d,D d,d,D d,
+Ď ď,Ď ď,ɖ,Ď ď,DJ dj
+Đ đ,Đ đ,dʑ,DŽ dž,DZS dzs
+DTH dth,D d,ð,Đ đ,DH dh
+DZ dz,DZ dz,dz,DZ dz,
+Dž dž,Đ đ,dʒ,DŽ dž,DZS dzs
+E e,E e,ɛ,E e,
+Ë ë,Ë ë,æ,E e,
+É é,É é,ɛː,É é,EE ee
+È è,E e,ɛ̠,E e,
+Ê ê,E e,ɜ,E e,
+F f,F f,f,F f,
+G g,G g,g,G g,
+Ğ ğ,G g,g̠,G g,
+H h,H h,h,H h,
+CH ch,CH ch,x,X x,
+İ ı,I i,ɪː,I i,
+I i,I i,i,I i,
+Ï ï,I i,ɪ,I i,
+Í í,Í í,iː,Í í,II ii
+Ì ì,I i,i̠,I i,
+Î î,Ü ü,ɥ,Ü ü,
+J j,J j,j,J j,
+K k,K k,k,K k,
+KH kh,KH kh,ʁ,R r,
+L l,L l,l,L l,
+Ĺ ĺ,Ĺ ĺ,lː,Ĺ ĺ,LL ll
+Ľ ľ,Ľ ľ,ʎ,Ľ ľ,LJ lj
+Ł ł,Ł ł,w,W w,
+LH lh,L l,ɬ,L l,
+M m,M m,m,M m,
+N n,N n,n,N n,
+Ń ń,Ń ń,ŋ,N n,
+Ņ ņ,Ň ň,ɳ,Ň ň,NJ nj
+Ň ň,Ň ň,ɲ,Ň ň,NJ nj
+O o,O o,o,O o,
+Ö ö,Ö ö,ə,Ö ö,OE oe
+Ó ó,Ó ó,oː,Ó ó,OO oo
+Ò ò,O o,ø,O o,
+Ô ô,O o,ɔ,O o,
+Ő ő,Ö ö,əː,ÖÖ öö,OEE oee
+P p,P p,p,P p,
+Q q,Q q,q,Q q,
+R r,R r,r,R r,
+Ŕ ŕ,Ŕ ŕ,rː,Ŕ ŕ,RR rr
+RH rh,R r,ɾ,R r,
+RZ rz,Ř ř,ɽ,Ř ř,RZS rzs
+Ŗ ŗ,Ř ř,ɽːː,Ř ř,RZS rzs
+Ř ř,Ř ř,ɽː,Ř ř,RZS rzs
+S s,S s,s,S s,
+Ś ś,S s,sː,S s,
+Sz sz,Š š,ɕ,Š š,SZ sz
+Ş ş,Š š,ʂ,Š š,SZ sz
+Š š,Š š,ʃ,Š š,SZ sz
+T t,T t,t,T t,
+Ť ť,Ť ť,ʈ,Ť ť,TJ tj
+Ţ ţ,Ť ť,ʈː,Ť,TJ tj
+TH th,TH th,θ,Ŧ ŧ,TH th
+U u,U u,u,U u,
+Ü ü,Ü ü,ɯ,Ü ü,UE ue
+Ú ú,Ú ú,uː,Ú ú,UU uu
+Ù ù,U u,u̠,U u,
+Û û,Û û,ʊ,U u,
+Ů ů,U u,ʉ,U u,
+Ų ų,Û û,ʊː,U u,
+Ű ű,Ü ü,ɯː,ÜÜ üü,UEE uee
+V v,V v,v,V v,
+W w,V v,vː,V v,
+X x,X x,ks,KS ks,
+Y y,Y y,y,Y y,
+Ÿ ÿ,Ü ü,ʏ,Ü ü,UE ue
+Ý ý,Ý ý,yː,Ý ý,YY yy
+Z z,Z z,z,Z z,
+Ż ż,Ż ż,ʑ,Ž ž,ZS zs
+Ź ź,Ź ź,zː,Z z,
+Ž ž,Ż ż,ʒ,Ž ž,ZS zs
+ZH zh,Ž ž,ʐ,Ž ž,ZS zs
+,,,,
+,+++,zkratky,+++,
+,,,Ǎ ǎ,JA ja
+,,,Â â,WA wa
+,,,Ą ą,AN an
+,,,Ą̌ ą̌,JAN jan
+,,,Ą̌́ ą̌́,JAAN jaan
+,,,Ą̂ ą̂,WAN wan
+,,,Ą̂́ ą̂́,WAAN waan
+,,,Ǒ̈ ǒ̈,JOE joe
+,,,Ǫ̈ ǫ̈,OEN oen
+,,,Ǫ̌̈ ǫ̌̈,JOEN joen
