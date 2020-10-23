@@ -41,58 +41,31 @@ Na Window$ jsou omezenější možnosti nabodávání než na Linuxu. Rovněž n
     a s d f g h j k l ů § "     A S D F G H J K L " ! '     ~ đ Đ [ ] ` ' ł Ł $ ' \     Æ § Ð ª Ŋ Ħ ̛  & Ł ˝ ß |
      y x c v b n m , . -         Y X C V B N M ? : _         ° # & @ { } ^ < > *         < > © ‘ ’ N º × ÷ ˙
 
-Mrtvá tečka nahoře se chová zvláštně v případě I: ı a İ, té se však v Gudhotnu nepoužívá. Dále jsou na české klávesnici méně obskurní mrtvá tlačítka na kroužek (Shift+;), čárku (vedle Backspace), háček (Shift+´) a přehlásku. Přehláska je na té klávese, která je pokaždé někde jinde poblíž Entru/Return/<-', a pod Shiftem se na ní ukrývá apostrof. Na linuxové americké mezinárodní klávesnici s AltGr mrtvými tlačítky nelze napsat đ, Ł a ł, jen ð a £. Kompletní seznam všech nabodlých písmenek, zatím původního Budhot'nu:
+Mrtvá tečka nahoře se chová zvláštně v případě I: ı a İ, té se však v Gudhotnu nepoužívá. Dále jsou na české klávesnici méně obskurní mrtvá tlačítka na kroužek (Shift+;), čárku (vedle Backspace), háček (Shift+´) a přehlásku. Přehláska je na té klávese, která je pokaždé někde jinde poblíž Entru/Return/<-', a pod Shiftem se na ní ukrývá apostrof. Na linuxové americké mezinárodní klávesnici s AltGr mrtvými tlačítky nelze napsat đ, jen ð, ale to se považuje za variantu. Podobně je místo Ŧ/ŧ možné psát Þ/þ. Momentálně nejde libovolně kombinovat více nabodeníček pro emulaci abdžádu. Seznam nabodlých písmenek nominálního zápisu, tedy ani spřežky, ani zkratky:
 
 Písmeno | Klávesy | Unicode
 --- | --- | ---
 Á á | 8 / AltGr+9,A | U+00C1 U+00E1
-À à | AltGr+7,A | U+00C0 U+00E0
-Â â | AltGr+3,A | U+00C2 U+00E2
-Ă ă | AltGr+4,A | U+0102 U+0103
-Å å | AltGr+5,A | U+00C5 U+00E5
-Ą ą | AltGr+6,A | U+0104 U+0105
-Ć ć | ´,C | U+0106 U+0107
-Ç ç | AltGr+´,C | U+00C7 U+00E7
 Č č | 4 / Shift+´,C / AltGr+2,C | U+010C U+010D
 Ď ď | Shift+´,d / AlrGr+2,D | U+010E U+010F
 Đ đ | AltGr+D (malé AltGr+S) | U+0110 U+0111
-Ë ë | ¨,E / AltGr+=,E | U+00CB U+00EB
+Ð ð | AltGr+D (US mezinárodní) | U+00D0 U+00F0
 É é | 0 | U+00C9 U+00E9
-È è | AltGr+7,E | U+00C8 U+00E8
-Ê ê | AltGr+3,E | U+00CA U+00EA
-Ğ ğ | AltGr+4,G | U+011E U+011F
-İ ı | AlrGr+8,I | U+0130 U+0131
-Ï ï | ¨,I / AltGr+=,I | U+00CF U+00EF
 Í í | 9 | U+00CD U+00ED
-Ì ì | AltGr+7,I | U+00CC U+00EC
-Î î | AltGr+3,I | U+00CE U+00EE
 Ĺ ĺ | ´,L / AltGr+9,L | U+0139 U+013A
 Ľ ľ | Shift+´,L | U+013D U+013E
-Ł ł | AltGr+L (malé AltGr+K) | U+0141 U+0142
-Ń ń | ´+N / AltGr+9,N | U+0143 U+0144
-Ņ ņ | AltGr+´,N | U+0145 U+146
 Ň ň | Shift+´,N / AltGr+2,N | U+0147 U+0148
 Ö ö | ¨,O / AltGr+=,O | U+00D6 U+00F6
 Ó ó | ´,O | U+00D3 U+00F3
-Ô ô | AltGr+3,O | U+00D4 U+00F4
 Ő ő | AltGr+0,O | U+0150 U+0151
 Ŕ ŕ | ´,R / AltGr+9,R | U+0154 U+0155
-Ŗ ŗ | AltGr+´,R | U+0156 U+0157
 Ř ř | 5 / AltGr+2,R | U+0158 U+0159
-Ś ś | ´,S | U+015A U+015B
-Ş ş | AltGr+´,S | U+015E U+015F
 Š š | 3 / AltGr+2,S | U+0160 U+0161
 Ť ť | Shift+´,T / AltGr+2,T | U+0164 U+0165
-Ţ ţ | AltGr+´,T | U+0162 U+0163
+Ŧ ŧ | AltGr+T | U+0166 U+0167
+Þ þ | AltGr+P | U+00DE U+00FE
 Ü ü | ¨,U / AltGr+=,U | U+00DC U+00FC
 Ú ú | Ú / AltGr+9,U | U+00DA U+00FA
-Ù ù | AltGr+7,U | U+00D9 U+00F9
-Û û | AltGr+3,U | U+00DB U+00FB
-Ů ů | Ů / AltGr+5,U | U+016E U+016F
-Ų ų | AltGr+6,U | U+0172 U+0173
 Ű ű | AltGr+0,U | U+0170 U+0171
-Ÿ ÿ | ¨,Y / AltGr+=,Y | U+0178 U+00FF
 Ý ý | 7 / AltGr+9,Y | U+00DD U+00FD
-Ż ż | AltGr+8,Z | U+017B U+017C
-Ź ź | ´,Z / AltGr+9,Z | U+0179 U+017A
 Ž ž | 6 / AltGr+ě+Z | U+017D U+017E
