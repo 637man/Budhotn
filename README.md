@@ -4,8 +4,6 @@ Dialekt umělého jazyka na bázi slovanských jazyků s redukovaným repertoár
 
 Jména souborů mají v sobě stále "budhotn" pro zpětnou kompatibilitu a možnost zpětného mergeování.
 
-+ **Budhót'n.xslx** - původní Excel 2007+ tabulka s abecedou, gramatikou, slovníkem atd.
-    - Obsahuje listy: abeceda, slovíčka, fráze, pod.jm., koncovky, příd.jm., slovesa, předpony, zájmena, číslovky, členy, zkratky, velká písmena
 + **budhotn.csv** - strojově čitelný slovník, přímo zde vyhledávatelný (5000+ řádků)
     - Kombinuje: slovíčka, fráze, koncovky, předpony, číslovky (část), větné členy
 + **budhotn_abeceda.csv** - abeceda a výslovnost (výhledově i šifry)
@@ -15,6 +13,8 @@ Jména souborů mají v sobě stále "budhotn" pro zpětnou kompatibilitu a mož
 + **budhotn_cislovky.csv** - číslovky a tabulka jejich skloňování
 + **budhotn_slovesa.csv** - tabulka časování sloves
 + **README.md** - tento informační soubor
+
+Původní Excelovský sešit **Budhót'n.xslx** viz původní repozitář. Obsahuje listy: abeceda, slovíčka, fráze, pod.jm., koncovky, příd.jm., slovesa, předpony, zájmena, číslovky, členy, zkratky, velká písmena
 
 
 ## Kontakty
