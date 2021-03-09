@@ -1,6 +1,8 @@
 # Gudhotn - dialekt Budhót'nu
 
-Dialekt umělého jazyka na bázi slovanských jazyků s redukovaným repertoárem grafémů a fonémů. 0. verze.
+Verze 0.1
+
+Dialekt umělého jazyka na bázi slovanských jazyků s redukovaným repertoárem grafémů a fonémů.
 
 Jména souborů mají v sobě stále "budhotn" pro zpětnou kompatibilitu a možnost zpětného mergeování.
 
@@ -8,13 +10,14 @@ Jména souborů mají v sobě stále "budhotn" pro zpětnou kompatibilitu a mož
     - Kombinuje: slovíčka, fráze, koncovky, předpony, číslovky (část), větné členy
 + **budhotn_abeceda.csv** - abeceda a výslovnost (výhledově i šifry)
 + **budhotn_postatna.csv** - tabulka skloňování podstatných jmen
++ **budhotn_zemepis.csv** - přepis zeměpisných pojmů a psaní velkých písmen
 + **budhotn_pridavna.csv** - tabulka skloňování přídavných jmen
 + **budhotn_zajmena.csv** - tabulka skloňování zájmen
 + **budhotn_cislovky.csv** - číslovky a tabulka jejich skloňování
 + **budhotn_slovesa.csv** - tabulka časování sloves
 + **README.md** - tento informační soubor
 
-Původní Excelovský sešit **Budhót'n.xslx** viz původní repozitář. Obsahuje listy: abeceda, slovíčka, fráze, pod.jm., koncovky, příd.jm., slovesa, předpony, zájmena, číslovky, členy, zkratky, velká písmena
+Původní Excelovský sešit **Budhót'n.xslx** viz původní repozitář.
 
 
 ## Kontakty
@@ -53,7 +56,6 @@ Písmeno | Klávesy | Unicode
 É é | 0 | U+00C9 U+00E9
 Í í | 9 | U+00CD U+00ED
 Ĺ ĺ | ´,L / AltGr+9,L | U+0139 U+013A
-Ľ ľ | Shift+´,L | U+013D U+013E
 Ň ň | Shift+´,N / AltGr+2,N | U+0147 U+0148
 Ö ö | ¨,O / AltGr+=,O | U+00D6 U+00F6
 Ó ó | ´,O | U+00D3 U+00F3
@@ -69,3 +71,5 @@ Písmeno | Klávesy | Unicode
 Ű ű | AltGr+0,U | U+0170 U+0171
 Ý ý | 7 / AltGr+9,Y | U+00DD U+00FD
 Ž ž | 6 / AltGr+ě+Z | U+017D U+017E
+
+
